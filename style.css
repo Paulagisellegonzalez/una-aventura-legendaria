@@ -1,0 +1,41 @@
+
+h1 {
+    color: black;
+    font-size: 45px;
+    background-color: beige;
+    margin:0px; margin-left: 350px; margin-right: 350px;
+    padding: 30px; padding-left: 100px;
+   }
+  
+   h2 {
+    color: black;
+    font-size: 27px;
+    background-color: beige;
+    margin:10px; margin-left: 150px;margin-right: 150px;
+    padding: 15px; padding-left: 100px;
+      }
+
+    img {
+        margin-top:0px; margin-left: 500px; margin-left: 0px;
+        }
+
+        p {
+            background-color: bisque;
+          }
+        dt {
+             background-color: bisque;
+          }
+        
+        dd {
+           background-color: bisque;
+           }
+        
+        li {
+           background-color: bisque;
+           }
+        
+        h3 {
+            color: black;
+            font-size: 27px;
+           background-color:beige ;
+           }
